@@ -4,14 +4,14 @@
 <img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
 
 ### Current
-![](https://img.shields.io/badge/-Artificial%20Intelligence%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA%20MOBILITY&color=ddd) 
+![](https://img.shields.io/badge/-Artificial%20Intelligence%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA%20MOBILITY&logoColor=fff&color=ddd) 
  - I'm currently a Artificial Intelligence Researcher at Motorola Mobility (a Lenovo company). 
  
 
 
 ### Past
-![](https://img.shields.io/badge/-AI%20solutions%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL&color=ddd)
-![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS&color=ddd)
+![](https://img.shields.io/badge/-AI%20solutions%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL&logoColor=fff&color=ddd)
+![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS&logoColor=fff&color=ddd)
 
 
 
