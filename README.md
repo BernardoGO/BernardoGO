@@ -20,21 +20,33 @@
 
 
 ### Education
- - Masters in Electrical Engineering, focused in machine learning.
- - Bachelors in Computer Science, focused in machine learning and computer vision.
+ * Master's degree in *Electrical Engineering* from Pontifical Catholic University of Minas Gerais (PUC-Minas).
+    * Machine Learning;
+    * Supervised Learning;
+    * Reinforcement Learning;
+ * Bachelor's degree in *Computer Science* from Pontifical Catholic University of Minas Gerais (PUC-Minas).
+     * Machine Learning;
+     * Supervised Learning;
+     * Computer Vision;
+     * Object Detection and Recognition;
+ 
 
 
 ### Languages
-![](https://img.shields.io/badge/-Python-000?style=for-the-badge&color=ddd&logo=python)
-![](https://img.shields.io/badge/-C++-000?style=for-the-badge&color=ddd&logo=c%2b%2b)
-![](https://img.shields.io/badge/-Java-000?style=for-the-badge&color=ddd&logo=java)
+
+![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logoColor=blue&color=ddd&logo=python)
+![](https://img.shields.io/badge/-C++-000?style=for-the-badge&logoColor=blue&color=ddd&logo=c%2b%2b)
+![](https://img.shields.io/badge/-Java-000?style=for-the-badge&logoColor=blue&color=ddd&logo=java)
 
 ### Technologies
 
 ![](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&color=ddd&logo=tensorflow)
 ![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&color=ddd&logo=pytorch)
-![](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&color=ddd&logo=numpy)
+![](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logoColor=blue&color=ddd&logo=numpy)
 
+### Reach Me
+[![Linkedin](https://img.shields.io/badge/-bernardogo-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardogo/)](https://www.linkedin.com/in/bernardogo/) 
+[![StackOverflow](https://img.shields.io/badge/-bernardogo-gray?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3799743/bernardogo)](https://stackoverflow.com/users/3799743/bernardogo) 
 
 
 <img height="137px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=BernardoGO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoGO&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" />
