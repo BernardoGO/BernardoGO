@@ -1,8 +1,10 @@
-### Hi there 👋
+
+
+<img src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="256">
 
 <!--
 **BernardoGO/BernardoGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Header](https://github.com/BernardoGO/BernardoGO/raw/main/out.gif )](http://github.com/BernardoGO)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
