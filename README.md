@@ -25,15 +25,15 @@
 
 
 ### Languages
-![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b)
-![](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/-Python-000?style=for-the-badge&color=ddd&logo=python)
+![](https://img.shields.io/badge/-C++-000?style=for-the-badge&color=ddd&logo=c%2b%2b)
+![](https://img.shields.io/badge/-Java-000?style=for-the-badge&color=ddd&logo=java)
 
 ### Technologies
 
-![](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
-![](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
+![](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&color=ddd&logo=tensorflow)
+![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&color=ddd&logo=pytorch)
+![](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&color=ddd&logo=numpy)
 
 
 
