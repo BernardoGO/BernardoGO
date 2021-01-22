@@ -10,7 +10,7 @@
 
 
 ### Current
-![](https://img.shields.io/badge/-AI%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA) 
+![](https://img.shields.io/badge/-Artificial%20Intelligence%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA%20MOBILITY) 
  - I'm currently a Artificial Intelligence Researcher at Motorola Mobility (a Lenovo company). 
 
 
