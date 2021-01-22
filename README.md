@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-AI%20Tech%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL&color=ddd)
 ![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS&color=ddd)
 
-<img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
+
 
 
 ### Education
@@ -31,7 +31,7 @@
      * Supervised Learning;
      * Computer Vision;
      * Object Detection and Recognition;
- 
+ <img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
 
 
 ### Languages
