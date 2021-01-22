@@ -1,18 +1,28 @@
 
 
-<img src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="256">
+## Hi there, I'm Bernardo Godinho 
 
-<!--
-**BernardoGO/BernardoGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://github.com/BernardoGO/BernardoGO/raw/main/out.gif )](http://github.com/BernardoGO)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
+
+
+
+
+
+### Current
+![](https://img.shields.io/badge/-AI%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA) 
+ - I'm currently a Artificial Intelligence Researcher at Motorola Mobility (a Lenovo company). 
+
+
+### Past
+![](https://img.shields.io/badge/-AI%20Tech%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL)
+![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS)
+
+
+![](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+
+
+
+<img height="137px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=BernardoGO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,8484a1,0081ff,3b3bed&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoGO&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,3b3bed,3939c1,020024&theme=graywhite" />
