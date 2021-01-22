@@ -10,7 +10,7 @@
 
 
 ### Past
-![](https://img.shields.io/badge/-AI%20Tech%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL&color=ddd)
+![](https://img.shields.io/badge/-AI%20solutions%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL&color=ddd)
 ![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS&color=ddd)
 
 
