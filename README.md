@@ -19,9 +19,21 @@
 ![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS)
 
 
+### Education
+ - Masters in Electrical Engineering, focused in machine learning.
+ - Bachelors in Computer Science, focused in machine learning and computer vision.
+
+
+### Languages
+![](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b)
+![](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+
+### Technologies
+
 ![](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
-![](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
 
 
 
