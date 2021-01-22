@@ -2,6 +2,7 @@
 
 
 <img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
+
 ### Current
 ![](https://img.shields.io/badge/-Artificial%20Intelligence%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA%20MOBILITY&color=ddd) 
  - I'm currently a Artificial Intelligence Researcher at Motorola Mobility (a Lenovo company). 
