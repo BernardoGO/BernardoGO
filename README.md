@@ -10,13 +10,13 @@
 
 
 ### Current
-![](https://img.shields.io/badge/-Artificial%20Intelligence%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA%20MOBILITY) 
+![](https://img.shields.io/badge/-Artificial%20Intelligence%20Researcher-000?style=for-the-badge&logo=motorola&label=MOTOROLA%20MOBILITY&color=ddd) 
  - I'm currently a Artificial Intelligence Researcher at Motorola Mobility (a Lenovo company). 
 
 
 ### Past
-![](https://img.shields.io/badge/-AI%20Tech%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL)
-![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS)
+![](https://img.shields.io/badge/-AI%20Tech%20Engineer-000?style=for-the-badge&logo=intel&label=INTEL&color=ddd)
+![](https://img.shields.io/badge/-Data%20Scientist%20-000?style=for-the-badge&logo=tata&label=TCS&color=ddd)
 
 
 ### Education
@@ -37,4 +37,4 @@
 
 
 
-<img height="137px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=BernardoGO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,8484a1,0081ff,3b3bed&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoGO&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,3b3bed,3939c1,020024&theme=graywhite" />
+<img height="137px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=BernardoGO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoGO&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" />
