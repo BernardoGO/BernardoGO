@@ -4,7 +4,7 @@
 
 
 
-
+ <img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
 
 
 
@@ -31,7 +31,7 @@
      * Supervised Learning;
      * Computer Vision;
      * Object Detection and Recognition;
- <img align="right" src="https://github.com/BernardoGO/BernardoGO/raw/main/out.gif" width="40%">
+
 
 
 ### Languages
