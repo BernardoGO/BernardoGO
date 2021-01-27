@@ -44,6 +44,6 @@
 ### Reach Me
 [![Linkedin](https://img.shields.io/badge/-bernardogo-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardogo/)](https://www.linkedin.com/in/bernardogo/) 
 [![StackOverflow](https://img.shields.io/badge/-bernardogo-gray?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3799743/bernardogo)](https://stackoverflow.com/users/3799743/bernardogo) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBernardoGO&count_bg=%235A5A5A&title_bg=%235A5A5A&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBernardoGO&count_bg=%235A5A5A&title_bg=%235A5A5A&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BernardoGO/)
 
 <img height="137px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=BernardoGO&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoGO&hide=jupyter%20notebook,html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" />
